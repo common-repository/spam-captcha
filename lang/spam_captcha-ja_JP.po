@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-10-27T08:24:56+00:00\n"
+"Last-Translator: hasegawa <lanna.in>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: Japan\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "次の表は、拒否されたコメントの数"
+
+msgid "Type of protection"
+msgstr "保護の種類"
+
+msgid "Summary"
+msgstr "要約"
+
+msgid "CAPTCHA protection:"
+msgstr "キャプチャプロテクト"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr ""
+
+msgid "AKISMET protection:"
+msgstr ""
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr ""
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr ""
+
+msgid "Summary of Protection"
+msgstr "保護の概要"
+
+msgid "Do you want to enable CAPTCHA for posted comments?"
+msgstr ""
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr ""
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr ""
+
+msgid "Yes/No (for the comment):"
+msgstr ""
+
+msgid "Use Capctha even if user is logged:"
+msgstr ""
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr ""
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr ""
+
+msgid "Number of letters:"
+msgstr ""
+
+msgid "Default value %s"
+msgstr ""
+
+msgid "Width of image:"
+msgstr "画像の幅："
+
+msgid "Height of image:"
+msgstr "画像の高さ："
+
+msgid "Maximum +/- angle of letters:"
+msgstr ""
+
+msgid "Size of letters:"
+msgstr "文字の大きさ："
+
+msgid "Color of the background:"
+msgstr "背景の色："
+
+msgid "Color of the font:"
+msgstr "フォントの色："
+
+msgid "Variation of the color of the letters:"
+msgstr "文字の色の変化："
+
+msgid "The color of the letters are not the identical"
+msgstr "文字の色は同一ではない"
+
+msgid "Variation of the color of the background:"
+msgstr "背景の色の変化："
+
+msgid "The color of the background are not the homogenous"
+msgstr "背景の色は均質ではない"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "CAPTCHA画像を表示するようにページに挿入されるHTML："
+
+msgid "The default html is: %s (please note that %s will be replace with the captcha image)"
+msgstr ""
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr ""
+
+msgid "Yes/No:"
+msgstr ""
+
+msgid "The Akismet ID:"
+msgstr ""
+
+msgid "Your Akismet ID is correct."
+msgstr ""
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr ""
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr ""
+
+msgid "Parameters"
+msgstr "パラメータ"
+
+msgid "Manage translations"
+msgstr "翻訳管理する"
+
+msgid "This form is an easy way to contact the author and to discuss issues / incompatibilities / etc."
+msgstr ""
+
+msgid "Give feedback"
+msgstr "フィードバック"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "入力ボックス：CAPTCHA画像の文字を入力してください"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr ""
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "CAPTCHAを誤記：あなたがスパムマシンではないことを証明するために、再試行してください！"
+
+msgid "Here is the plugins developped by the author:"
+msgstr "著者が開発したプラグインは、次のとおりです。"
+
+msgid "Other possible plugins"
+msgstr "他の可能なプラグイン"
+

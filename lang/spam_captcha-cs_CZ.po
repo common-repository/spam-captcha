@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-09-18T17:37:57+00:00\n"
+"Last-Translator: SedLex <http://www.sedlex.fr/>\n"
+"Last-Translator: Kumerson <http://www.cabridog.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: Czech Republic\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "Následující tabulka ukazuje počty zamítnutých komentářů"
+
+msgid "Type of protection"
+msgstr "Typ ochrany"
+
+msgid "Summary"
+msgstr "Přehled"
+
+msgid "CAPTCHA protection:"
+msgstr "Ochrana pomocí CAPTCHA:"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s bylo zablokováno, protože neprošly testem CAPTCHA"
+
+msgid "AKISMET protection:"
+msgstr "Ochrana pomocí AKISMET:"
+
+msgid "Summary of Protection"
+msgstr "Přehled antispam ochran"
+
+msgid "Do you want to enable CAPTCHA for posted comments?"
+msgstr "Chcete povolit anti-spam ochranu CAPTCHA pro komentáře?"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Váš server pravděpodobně nemá korektně nainstalovanou kompomentu GD, chybí následující funkce: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Tuhle volbu nelze aktivovat, pardon!"
+
+msgid "Yes/No (for the comment):"
+msgstr "Ano/Ne (pro komentáře):"
+
+msgid "Use Capctha even if user is logged:"
+msgstr ""
+
+msgid "Number of letters:"
+msgstr "Počet písmen:"
+
+msgid "Default value %s"
+msgstr "Výchozí hodnota %s"
+
+msgid "Width of image:"
+msgstr "Šířka obrázku:"
+
+msgid "Height of image:"
+msgstr "Výška obrázku:"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Maximální úhel pro naklánění písmen:"
+
+msgid "Size of letters:"
+msgstr "Velikost písmen:"
+
+msgid "Color of the background:"
+msgstr "Bazva pozadí:"
+
+msgid "Color of the font:"
+msgstr "Barva fontu:"
+
+msgid "Variation of the color of the letters:"
+msgstr "Povolit vícebarevné písmo"
+
+msgid "The color of the letters are not the identical"
+msgstr "Písmena budou různobarevná"
+
+msgid "Variation of the color of the background:"
+msgstr "Povolit &quot;flekaté&quot; pozadí obrázku"
+
+msgid "The color of the background are not the homogenous"
+msgstr "Pozadí bude flekaté, písmena budou obtížněji čitelná"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "HTML kód, který zobrazí antispam ochranu na stránkách:"
+
+msgid "The default html is: %s (please note that %s will be replace with the captcha image)"
+msgstr "Výchozí html: %s (všimněte si, že %s bude nahrazen obrázkem catcha)"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Chcete použít Akismet API jako další ochranu proti spamuv komentářích?"
+
+msgid "Yes/No:"
+msgstr "Ano/Ne:"
+
+msgid "The Akismet ID:"
+msgstr "Akismet ID:"
+
+msgid "Your Akismet ID is correct."
+msgstr "Zadané Akismet ID je správné."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Zadané Akismet ID pravděpodobně není správné."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "Pro získání Akismet ID následujte %s zde %s."
+
+msgid "Parameters"
+msgstr "Parametry"
+
+msgid "Manage translations"
+msgstr "Správa překladů"
+
+msgid "This form is an easy way to contact the author and to discuss issues / incompatibilities / etc."
+msgstr "Tento formulář slouží ke kontaktu s autorem a debatě nad problémy, nekompatibilitou atd."
+
+msgid "Give feedback"
+msgstr "Poslat vyjádření"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Zadejte, prosím, znaky z obrázku do textového pole a pak odešlete komentář."
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Poslali jste komentář, který Akismet hodnotí jako spam. není-li to spam, nezbývá než příspěvek upravit a poslet znova."
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Znaky z obrázku nebyly zadány správně. Zkuste to prosím znova, pokud teda nejste spamovací robot!"
+

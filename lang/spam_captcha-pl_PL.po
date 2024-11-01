@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-09T21:08:33+00:00\n"
+"Last-Translator: Kobra <www.the-world.pl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: Poland\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "Poniższa tabela zawiera zestawienie liczby odrzuconych komentarzy"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Number of hits"
+msgstr "Ilość kliknięć"
+
+msgid "Blocked by CAPTCHA"
+msgstr "Zablokowane przez CAPTCHA"
+
+msgid "Blocked by AKISMET"
+msgstr "Zablokowane przez AKISMET"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "Niezablokowane przez AKISMET, będące spamem"
+
+msgid "Normal comment"
+msgstr "Zwykły komentarz"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "Zablokowane przez AKISMET, niebędące spamem"
+
+msgid "Spam Report"
+msgstr "Zgłoś spam"
+
+msgid "Type of protection"
+msgstr "Rodzaj ochrony"
+
+msgid "Summary"
+msgstr "Podsumowanie"
+
+msgid "CAPTCHA protection:"
+msgstr "Ochrona przez CAPTCHA:"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s komentarzy zablokowanych przez CAPTCHA"
+
+msgid "AKISMET protection:"
+msgstr "Ochrona AKISMET:"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Wtyczka zatrzymała %s komentarzy będących spamem (i pominęła %s, które oznaczyłeś ręcznie jako spam)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "Ponadto, wtyczka sprawdziła %s zwykłych komentarzy (i oznaczyła %s jako będące spamem, które ręcznie oznaczyłeś jako poprawne)"
+
+msgid "Summary of Protection"
+msgstr "Podsumowanie ochrony"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "Czy chcesz włączyć CAPTCHA w formularzu dodawania komentarza?"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Serwer nie ma zainstalowanego modułu GD w następującymi funkcjami: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Tak więc, nie jest możliwe, aby włączyć tę opcję ... sorry!"
+
+msgid "Yes/No (for commenting only):"
+msgstr "Tak/Nie (tylko dla komentarzy):"
+
+msgid "The captcha will be like that : %s"
+msgstr "Obrazek będzie wyglądał następująco: %s"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "Używaj CAPTCHA nawet jeśli użytkownik jest zalogowany:"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "UWAGA: jeśli włączysz tą opcję CAPTCHA będzie działać tylko dla użytkowników z nastepu,ącym statusem: %s"
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr "Następnie CAPTCHA będzie wyświetlana (na przykład, aby upewnić się, że wyświetlacz / CSS / itd jest prawidłowy), ale nieskuteczna z użytkownikami o następującym statusie: %s"
+
+msgid "The captcha proposes a sequence of lower-case letters:"
+msgstr "CAPTCHA zbudowana z ciągu małych liter:"
+
+msgid "The captcha proposes an addition operation to solve:"
+msgstr "CAPTCHA zawiera dodatkowe działania do rozwiązania"
+
+msgid "Number of letters:"
+msgstr "Liczba liter:"
+
+msgid "Default value %s"
+msgstr "Domyślna wartość %s"
+
+msgid "Width of image:"
+msgstr "Szerokość obrazka:"
+
+msgid "Height of image:"
+msgstr "Wysokość obrazka:"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Maksymalny +/- kąt liter:"
+
+msgid "Size of letters:"
+msgstr "Wielkość liter:"
+
+msgid "Color of the background:"
+msgstr "Kolor tła:"
+
+msgid "Color of the font:"
+msgstr "Kolor liter:"
+
+msgid "Variation of the color of the letters:"
+msgstr "Zmiana koloru liter:"
+
+msgid "The color of the letters and of the background are not the identical"
+msgstr "Kolory liter i tła nie są jednakowe"
+
+msgid "Variation of the color of the background:"
+msgstr "Zmiana koloru tła:"
+
+msgid "The color of the background are not the homogenous"
+msgstr "Kolory tła nie jest jednorodne"
+
+msgid "Percentage of variation (alea) of the colors (background and letters):"
+msgstr "Procent zmienności kolorów (tło i litery):"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "Kod HTML, który zostanie dodany do strony, aby wyświetlić obrazek:"
+
+msgid "The default html is: %s"
+msgstr "Domyślny kod HTML: %s"
+
+msgid "Please note that %s will be replace with the captcha image."
+msgstr "Pamietaj, że %s będzie zamienione na obrazek."
+
+msgid "You may add some comment, for instance to make clear that the addition should be responded with the result of the operation."
+msgstr "Możesz dodać komentarz."
+
+msgid "The image will be slightly distorded:"
+msgstr "Obraz będzie lekko zniekształcony:"
+
+msgid "The period of the wave:"
+msgstr "Długość fali:"
+
+msgid "The amplitude of the wave:"
+msgstr "Amplituda fali:"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Czy chcesz, aby komentarze były sprawdzane przez Akismet API pod kątem spamu?"
+
+msgid "Yes/No:"
+msgstr "Tak/Nie:"
+
+msgid "The Akismet ID:"
+msgstr "Akismet ID:"
+
+msgid "Your Akismet ID is correct."
+msgstr "Twój Akismet ID jest prawidłowy."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Twój Akismet ID wygląda na nieprawidłowy."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "Aby zdobyć Akismet ID, patrz %s tutaj %s."
+
+msgid "Advanced parameters"
+msgstr "Ustawienia zaawansowane"
+
+msgid "Remove stats older than (in days):"
+msgstr "Usuń statystyki starsze niż (dni):"
+
+msgid "Stats older than the predetermined number of days will be deleted to save database space."
+msgstr "Statystyki starsze niż określona liczbya dni zostaną usunięte w celu zaoszczędzenia miejsca bazy danych."
+
+msgid "0 means that no entry is deleted."
+msgstr "Żadna pozycja nie została usunięta."
+
+msgid "Parameters"
+msgstr "Parametry"
+
+msgid "Manage translations"
+msgstr "Zarządzaj tłumaczeniami"
+
+msgid "Give feedback"
+msgstr "Oceń wtyczkę"
+
+msgid "Other plugins"
+msgstr "Inne wtyczki"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Twój komentarz został potraktowany jako spam. Jeśli nim nie jest spróbuj go zmienić i wysłać ponownie."
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Błędny kod CAPTCHA. Aby udowodnić, że nie jesteś maszyną spróbuj jeszcze raz!"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Udowodnij, że jesteś człowiekiem - przepisz tekst z obrazka"
+

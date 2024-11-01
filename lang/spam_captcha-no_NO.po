@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-06T17:31:52+00:00\n"
+"Last-Translator: BjornHoel <warlords.no-ip.biz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Norwegian-Nynorsk\n"
+"X-Poedit-Country: Norway\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "Tabellen nedenfor oppsummerer antallet avviste kommentarer"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Number of hits"
+msgstr "Antall treff"
+
+msgid "Blocked by CAPTCHA"
+msgstr "Blokkert av CAPTCHA"
+
+msgid "Blocked by AKISMET"
+msgstr "Blokkert av AKISMET"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "Ikke blokkert av AKISMET"
+
+msgid "Normal comment"
+msgstr "Ikke blokkert av AKISMET, men spam"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "Blokkert av AKISMET, men normal"
+
+msgid "Spam Report"
+msgstr "Spam rapport"
+
+msgid "Type of protection"
+msgstr "Type beskyttelse"
+
+msgid "Summary"
+msgstr "Oppsummering"
+
+msgid "CAPTCHA protection:"
+msgstr "CAPTCHA beskyttelse:"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s meldinger har blitt blokkert på grunn av mislykket CAPTCHA"
+
+msgid "AKISMET protection:"
+msgstr "AKISMET beskyttelse:"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Dette tillegget har blokkert %s spam-kommentarer (Og bommet på %s kommentarer som du har manuelt indikert som spam)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "Videre, dette tillegge prosesserte %s vanlige kommentarer (og markerte %s som spam som du har manuelt indikert som vanlige)"
+
+msgid "Summary of Protection"
+msgstr "Oppsummering av beskyttelse"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "Ønsker du å aktivere CAPTCHA for å legge inn kommentarer"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Din server ser ikke ut til å ha GD installert med følgende funksjon: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Pga. dette er det ikke mulig å aktivere denne opsjonen... beklager!"
+
+msgid "Yes/No (for commenting only):"
+msgstr "Ja/Nei (Kun for kommentarer)"
+

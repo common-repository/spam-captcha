@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-15T15:26:32+00:00\n"
+"Last-Translator: BahmanMohadeci <http://ensahr.com/>\n"
+"Last-Translator: mortezapourmirzai <www.seshanbeh.com>\n"
+"Last-Translator: AmirMaskani <amirmaskani@gmail.com>\n"
+"Last-Translator: Raheb <RahebFilm@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Farsi\n"
+"X-Poedit-Country: Iran\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "خلاصه عملکرد جلوگیری از اسپم در این قسمت آورده شده است"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Number of hits"
+msgstr "تعداد بازدید"
+
+msgid "Blocked by CAPTCHA"
+msgstr "مسدود شده توسط کپچا"
+
+msgid "Blocked by AKISMET"
+msgstr "مسدود شده توسط Akismet"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "توسط Akismet بلاک نشده اما اسپم است"
+
+msgid "Normal comment"
+msgstr "کامنت معمولی"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "مسدود شده توسط اکسی مت اما معمولی است"
+
+msgid "Spam Report"
+msgstr "گزارش اسپم"
+
+msgid "Type of protection"
+msgstr "نوع حفاظت"
+
+msgid "Summary"
+msgstr "مجموع"
+
+msgid "CAPTCHA protection:"
+msgstr "حفاظت توسط کپچا:"
+
+msgid "AKISMET protection:"
+msgstr "حفاظت توسط Akismet"
+
+msgid "Summary of Protection"
+msgstr "مجموع حفاظت ها"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "آیا مایل به فعال کردن کپچا برای قسمت نظرات هستید؟"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "متاسفیم. اما امکان فعال کردن این گزینه وجود ندارد"
+
+msgid "Yes/No (for commenting only):"
+msgstr "بله / خیر (فقط برای نظرات)"
+
+msgid "The captcha will be like that : %s"
+msgstr "کپچا چیزی شبیه این خواهد بود: %s"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "از کپچا استفاده شود. حتی اگر کاربر لاگین کرده باشد:"
+
+msgid "Number of letters:"
+msgstr "تعداد حروف:"
+
+msgid "Width of image:"
+msgstr "عرض تصویر"
+
+msgid "Height of image:"
+msgstr "طول تصویر"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "حداکثر +/- زاویه حروف:"
+
+msgid "Size of letters:"
+msgstr "اندازه حروف:"
+
+msgid "Color of the background:"
+msgstr "رنگ پس زمینه:"
+
+msgid "Color of the font:"
+msgstr "رنگ فونت:"
+
+msgid "Variation of the color of the letters:"
+msgstr "پراکندگی رنگ حروف:"
+
+msgid "The color of the letters are not the identical"
+msgstr "رنگ حروف یکسان نیست"
+
+msgid "Variation of the color of the background:"
+msgstr "پراکندگی رنگ پس زمینه:"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "کد HTML که برای نشان دادن کپچا در صفحه شما جای داده می شود"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "آیا مایلید از Akismet برای مقابله با اسپم ها استفاده کنید؟"
+
+msgid "Yes/No:"
+msgstr "بله / خیر"
+
+msgid "Your Akismet ID is correct."
+msgstr "Akismet ID شما صحیح است."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "به نظر می رسد Akismet ID شما صحیح نیست."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "برای دریافت Akismet ID به %s اینجا %s مراجعه کنید."
+
+msgid "Parameters"
+msgstr "پارامتر ها"
+
+msgid "Manage translations"
+msgstr "مدیریت ترجمه ها"
+
+msgid "Other plugins"
+msgstr "سایر افزونه ها"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "لطفا کاراکتر هایی که در این تصویر مشاهده می کنید در این قسمت بنویسید"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "نظری که شما گذاشته اید به نظر اسپم می آید. اگر به نظر شما اشتباه شده لطفا نظر خود را مرور کرده و مجددا ارسال کنید."
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "شما کد کپچا را وارد نکرده اید. لطفا برای کارکرد صحیح قسمت نظرات این کد را وارد نمایید"
+
+msgid "Default value %s"
+msgstr "مقدار پیشفرض: %s"
+
+msgid "The default html is: %s"
+msgstr "کد html پیشفرض: %s"
+
+msgid "Please note that %s will be replace with the captcha image."
+msgstr "لطفا توجه کنید که %s با عکس کپتچا جایگزین خواهد شد."
+
+msgid "The Akismet ID:"
+msgstr "آی دی Akismet"
+
+msgid "Give feedback"
+msgstr "بازخورد"
+
+msgid "The period of the wave:"
+msgstr "دوره ی موج:"
+
+msgid "Advanced parameters"
+msgstr "پارامتر های پیشرفته"
+
+msgid "You do not have typed the correct captcha"
+msgstr "کد وارد شده اشتباه است !!"
+
+msgid "Pie chart summary"
+msgstr "خلاصه نمودار"
+
+msgid "Blocked by CAPTCHA (nothing entered)"
+msgstr "مسدود شده توسط کپچا (nothing entered)"
+
+msgid "Blocked by CAPTCHA (no session cookie)"
+msgstr "مسدود شده توسط کپچا (no session cookie)"
+
+msgid "Blocked by CAPTCHA (mismatch)"
+msgstr "مسدود شده توسط کپچا (mismatch)"
+
+msgid "Comment blocked by Akismet"
+msgstr "نظر مسدود شده توسط Akismet"
+
+msgid "Detailled summary"
+msgstr "خلاصه اطلاعات"
+
+msgid "Captcha in Contact Forms"
+msgstr "تصویر امنیتی را در فرم تماس"
+
+msgid "Block spammer"
+msgstr "بلوک اسپمر"
+
+msgid "How To"
+msgstr "چگونه به"
+

@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-08-03T13:33:04+00:00\n"
+"Last-Translator: MarcosAndrade <http://blog.winco.com.br>\n"
+"Last-Translator: AdrianaVandoni <cacurvo@gmail.com>\n"
+"Last-Translator: IuriJacob <http://www.bytecodex.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: Brazil\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "A tabela abaixo resume o número de comentários rejeitados"
+
+msgid "Type of protection"
+msgstr "Tipo de proteção"
+
+msgid "Color of the background:"
+msgstr "Cor do Fundo:"
+
+msgid "Color of the font:"
+msgstr "Cor da fonte:"
+
+msgid "Variation of the color of the letters:"
+msgstr "Variação da cor das letras:"
+
+msgid "The color of the letters are not the identical"
+msgstr "As cores das letras não são iguais"
+
+msgid "Yes/No:"
+msgstr "Sim/Não:"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Por favor, digite os caracteres desta imagem na caixa de entrada"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Você enviou um comentário que é considerado como um spam ... Se não, por favor, modifique-o e tente novamente"
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Você digitou incorretamente os caracteres: para provar que sua máquina não é um spam, por favor tente novamente!"
+
+msgid "Summary"
+msgstr "Resumo"
+
+msgid "CAPTCHA protection:"
+msgstr "proteção por CAPTCHA:"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s mensagens foram bloqueadas como o teste falha CAPTCHA"
+
+msgid "AKISMET protection:"
+msgstr "Proteção AKISMET:"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Este plugin impediu %s de spam de comentários (e errou %s que você indicou manualmente como sendo spam)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "Além disso, este plugin processa %s comentários normais  (e marcados como spam %s que você tenha indicado manualmente como sendo normal)"
+
+msgid "Summary of Protection"
+msgstr "Resumo de proteção"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "Você quer habilitar o CAPTCHA para postar comentários?"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Seu servidor não parece ter o GD instalado com as seguintes funções: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Assim, não é possível ativar esta opção ... desculpe!"
+
+msgid "Yes/No (for commenting only):"
+msgstr "Sim / Não (somente para comentarios):"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "Use Capctha mesmo se o usuário está registrado:"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "ATENÇÃO: Se você habilitar esta opção, o Captcha será eficaz apenas com usuários com a seguinte função: %s"
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr "Então o Captcha será exibido (por exemplo, para se certificar de que o display/CSS/etc está correto.) mas ineficaz com os usuários com a seguinte função: %s"
+
+msgid "Number of letters:"
+msgstr "Número de letras:"
+
+msgid "Default value %s"
+msgstr "Valor padrão %s"
+
+msgid "Width of image:"
+msgstr "Largura da imagem:"
+
+msgid "Height of image:"
+msgstr "Altura da imagem:"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Máximo +/-  ângulo das letras:"
+
+msgid "Size of letters:"
+msgstr "Tamanho das letras:"
+
+msgid "Variation of the color of the background:"
+msgstr "Variação da cor do fundo:"
+
+msgid "The color of the background are not the homogenous"
+msgstr "A cor do fundo não é homogênea"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "A HTML que será inserida em sua página para mostrar a imagem captcha:"
+
+msgid "The default html is: %s (please note that %s will be replace with the captcha image)"
+msgstr "O padrão html é: %s (note que %s serão substituídos com a imagem captcha)"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Você quer usar Akismet API para verificar o spam contra comentários postados?"
+
+msgid "The Akismet ID:"
+msgstr "O ID Akismet:"
+
+msgid "Your Akismet ID is correct."
+msgstr "Seu ID Akismet está correto."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Seu ID Akismet não parece correto."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "Para se ter uma ID Akismet, veja %s aqui %s."
+
+msgid "Parameters"
+msgstr "Parâmetros"
+
+msgid "Manage translations"
+msgstr "Gerenciar traduções"
+
+msgid "Give feedback"
+msgstr "Dar feedback"
+
+msgid "Other plugins"
+msgstr "Outros plugins"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Number of hits"
+msgstr "Número de hits"
+
+msgid "Blocked by CAPTCHA"
+msgstr "Bloqueados pelo CAPTCHA"
+
+msgid "Blocked by AKISMET"
+msgstr "Bloqueados pelo AKISMET"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "Não bloqueados pelo AKISMET mas considerados spam"
+
+msgid "Normal comment"
+msgstr "Comentários normais"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "Bloqueados pelo AKISMET mas considerados normais"
+
+msgid "Spam Report"
+msgstr "Relatos de spam"
+
+msgid "The captcha will be like that : %s"
+msgstr "O captcha aparecerá assim: %s"
+

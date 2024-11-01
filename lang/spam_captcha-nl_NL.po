@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-17T13:05:56+00:00\n"
+"Last-Translator: Marksremarks <http://antennae.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: Netherlands\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "Deze tabel geeft het aantal afgewezen commentaren weer"
+
+msgid "Type"
+msgstr "Soort"
+
+msgid "Number of hits"
+msgstr "Aantal treffers"
+
+msgid "Blocked by CAPTCHA"
+msgstr "Geblokkeerd door CAPTCHA"
+
+msgid "Blocked by AKISMET"
+msgstr "Geblokkeerd door AKISMET"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "Niet geblokkeerd door AKISMET en toch spam"
+
+msgid "Normal comment"
+msgstr "Normale reacties"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "Beblokkeerd door AKISMET, maar geen spam"
+
+msgid "Spam Report"
+msgstr "Spam rapport"
+
+msgid "Type of protection"
+msgstr "Soort bescherming"
+
+msgid "Summary"
+msgstr "Samenvatting"
+
+msgid "CAPTCHA protection:"
+msgstr "CAPTCHA-bescherming"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s berichten zijn geblokkeerd op basis van de CAPTCHA-test"
+
+msgid "AKISMET protection:"
+msgstr "AKISMET-bescherming"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Deze plug-in heeft %s spamberichten gestopt (en miste er %s, die je handmatig als spam hebt aangemerkt)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "Verder heeft deze plug-in %s gewone commentaren verwerkt (en %s als spam gestopt, die je handmatig als normaal hebt aangemerkt)"
+
+msgid "Summary of Protection"
+msgstr "Samenvatting van de bescherming"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "Wil je CAPTCHA voor reacties inschakelen?"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Het lijkt erop dat op je server GD niet is geïnstalleerd met deze functies: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Het is daarom niet mogelijk om deze optie te activeren... sorry!"
+
+msgid "Yes/No (for commenting only):"
+msgstr "Ja/Nee (alleen voor reacties):"
+
+msgid "The captcha will be like that : %s"
+msgstr "De captcha zal er zo uitzien: %s"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "Gebruik captcha ook als de gebruiker is ingelogd:"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "WAARSCHUWING: Als je deze optie aanzet, zal de captcha alleen effectief zijn bij gebruikers met deze rollen: %s"
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr "De captcha zal worden weergegeven (bijvoorbeeld om te zien of weergave/CSS/etc goed zijn), maar niet effectief zijn voor gebruikers met de volgende rollen: %s"
+
+msgid "The captcha proposes a sequence of lower-case letters:"
+msgstr "De captcha geeft kleine letters (onderkast):"
+
+msgid "The captcha proposes an addition operation to solve:"
+msgstr "De captcha geeft nog een extra opdracht:"
+
+msgid "Number of letters:"
+msgstr "Aantal letters:"
+
+msgid "Default value %s"
+msgstr "Standaard aantal %s"
+
+msgid "Width of image:"
+msgstr "Breedte van het plaatje:"
+
+msgid "Height of image:"
+msgstr "Hoogte van het plaatje:"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Maximale +/- hoek van de letters:"
+
+msgid "Size of letters:"
+msgstr "Lettergrootte:"
+
+msgid "Color of the background:"
+msgstr "Achtergrondkleur:"
+
+msgid "Color of the font:"
+msgstr "Letterkleur:"
+
+msgid "Variation of the color of the letters:"
+msgstr "Variatie in de kleur van de letters:"
+
+msgid "The color of the letters and of the background are not the identical"
+msgstr "De kleur van de letters en de achtergrond zijn ongelijk"
+
+msgid "Variation of the color of the background:"
+msgstr "Variatie in de achtergrondkleur:"
+
+msgid "The color of the background are not the homogenous"
+msgstr "De kleur van de achtergrond is niet egaal"
+
+msgid "Percentage of variation (alea) of the colors (background and letters):"
+msgstr "Variatiepercentage van de kleuren (achtergrond en letters):"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "De HTML die in het bericht wordt ingevoegd om de captcha weer te geven:"
+
+msgid "The default html is: %s"
+msgstr "De standaard HTML is: %s"
+
+msgid "Please note that %s will be replace with the captcha image."
+msgstr "Merk op dat %s wordt vervangen door de captcha-afbeelding."
+
+msgid "You may add some comment, for instance to make clear that the addition should be responded with the result of the operation."
+msgstr "Je kunt een toelichting geven, bij voorbeeld om duidelijk te maken dat niet de berekening, maar de uitkomst moet worden ingevoerd."
+
+msgid "The image will be slightly distorded:"
+msgstr "De afbeelding wordt enigszins vervormd:"
+
+msgid "The period of the wave:"
+msgstr "De golflengte:"
+
+msgid "The amplitude of the wave:"
+msgstr "De amplitude van de golf:"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Wil je de Akismet API gebruiken om reacties op spam te controleren?"
+
+msgid "Yes/No:"
+msgstr "Ja/Nee:"
+
+msgid "The Akismet ID:"
+msgstr "Het Akismet ID:"
+
+msgid "Your Akismet ID is correct."
+msgstr "Je Akismet ID je correct."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Er is iets mis met je Akismet ID."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "%s Hier%s kun je een Akismet ID aanmaken."
+
+msgid "Advanced parameters"
+msgstr "Geavanceerde instellingen"
+
+msgid "Remove stats older than (in days):"
+msgstr "Verwijder statistieken ouder dan (in dagen):"
+
+msgid "Stats older than the predetermined number of days will be deleted to save database space."
+msgstr "Statistieken ouder dan het aangegeven aantal dagen wordt verwijderd, om ruimte te besparen in de database."
+
+msgid "0 means that no entry is deleted."
+msgstr "0 betekent dat er geen gegevens worden verwijderd."
+
+msgid "Parameters"
+msgstr "Instellingen"
+
+msgid "Manage translations"
+msgstr "Vertalingen beheren"
+
+msgid "Give feedback"
+msgstr "Geef feedback"
+
+msgid "Other plugins"
+msgstr "Andere plug-ins"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Je reactie lijkt spam te zijn... Is het dat niet, pas je bericht dan een beetje aan en probeer het nogmaals."
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Er zit een tikfout in de captcha. Bewijs dat je geen spamrobot bent en probeer het nogmaals!"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Typ de letters van de captcha over in het invoerveld"
+

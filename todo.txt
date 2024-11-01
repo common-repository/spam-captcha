@@ -1,0 +1,3 @@
+FRONT: PHP Error/Warning/Notice: Undefined index: keyCaptcha (8)
+
+This message has been fired in wp-content/plugins/spam-captcha/spam-captcha.php on line 775

@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-10-22T15:59:19+00:00\n"
+"Last-Translator: bladin <admin@heichengliang.me>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: People's Republic of China\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "评论被拒绝"
+
+msgid "Type of protection"
+msgstr "验证类型"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "CAPTCHA protection:"
+msgstr "CAPTCHA保护"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s 条评论因为验证错误而被屏蔽"
+
+msgid "AKISMET protection:"
+msgstr "AKISMET保护"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "本插件阻止了 %s 条垃圾评论(你手动设置了 %s 条垃圾评论)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "本插件批准了 %s 条正常评论(你手动设置了 %s 条正常评论)"
+
+msgid "Summary of Protection"
+msgstr "摘要"
+
+msgid "Do you want to enable CAPTCHA for posted comments?"
+msgstr "对已发布的评论启用CAPTCHA?"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "服务器不支持以下函数: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "不能激活该选项"
+
+msgid "Yes/No (for the comment):"
+msgstr "是/否(对该评论)"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "对已登录用户使用验证"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "警告：如果选中此项，验证只在以下角色的用户中起效: %s"
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr "验证码对以下角色的用户 %s 显示但不起效"
+
+msgid "Number of letters:"
+msgstr "字符数量"
+
+msgid "Default value %s"
+msgstr "默认值 %s"
+
+msgid "Width of image:"
+msgstr "图片宽度"
+
+msgid "Height of image:"
+msgstr "图片高度"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "字符最大偏转角"
+
+msgid "Size of letters:"
+msgstr "字符尺寸"
+
+msgid "Color of the background:"
+msgstr "背景颜色"
+
+msgid "Color of the font:"
+msgstr "字体颜色"
+
+msgid "Variation of the color of the letters:"
+msgstr "字体颜色变化"
+
+msgid "The color of the letters are not the identical"
+msgstr "字符颜色不同"
+
+msgid "Variation of the color of the background:"
+msgstr "背景颜色变化"
+
+msgid "The color of the background are not the homogenous"
+msgstr "背景颜色不同"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "为了显示验证图片而插入的HTML"
+
+msgid "The default html is: %s (please note that %s will be replace with the captcha image)"
+msgstr "默认html: %s ( %s 将由验证图片替换)"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "希望使用Akismet API 检查已发布的评论吗?"
+
+msgid "Yes/No:"
+msgstr "是/否"
+
+msgid "The Akismet ID:"
+msgstr "Akismet ID"
+
+msgid "Your Akismet ID is correct."
+msgstr "Akismet ID 正确"
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Akismet ID 不正确"
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "申请 Akismet ID，%s点我%s"
+
+msgid "Parameters"
+msgstr "参数"
+
+msgid "Manage translations"
+msgstr "管理语言文件"
+
+msgid "This form is an easy way to contact the author and to discuss issues / incompatibilities / etc."
+msgstr "这个表单是联系作者和讨论问题的方便途径"
+
+msgid "Give feedback"
+msgstr "反馈"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "请键入图片中的字符"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "垃圾评论，请修改"
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "验证错误，请修改"
+
+msgid "Here is the plugins developped by the author:"
+msgstr "作者开发的其他插件"
+
+msgid "Other possible plugins"
+msgstr "其他可用插件"
+

@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-06-28T06:52:41+00:00\n"
+"Last-Translator: marko.estas <apversiu.lt>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Lithuanian\n"
+"X-Poedit-Country: Lithuania\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "Šitoje lentelėje sumuojami atmesti komentarai"
+
+msgid "Type"
+msgstr "Tipas"
+
+msgid "Number of hits"
+msgstr "Bandymų skaičius"
+
+msgid "Blocked by CAPTCHA"
+msgstr "Blokuota su CAPTCHA"
+
+msgid "Blocked by AKISMET"
+msgstr "Blokuota su AKISMET"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "Neblokuota AKISMET, tačiau šlamštas"
+
+msgid "Normal comment"
+msgstr "Normalūs komentarai"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "Blokuoti AKISMET, bet geri"
+
+msgid "Spam Report"
+msgstr "Šiukšlinimo ataskaita"
+
+msgid "Type of protection"
+msgstr "Apsaugos tipas"
+
+msgid "Summary"
+msgstr "Suvestinė"
+
+msgid "CAPTCHA protection:"
+msgstr "CAPTCHA apsauga"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s pranešimai buvo blokuoti, nes nepraėjo CAPTCHA testo"
+
+msgid "AKISMET protection:"
+msgstr "AKISMET apsauga"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Šitas įskiepis sustabdė  %s komentarų- šiukšlių (ir praleido  %s, kuriuos Jūs rankiniu būdu pažymėjote kaip šiukšles)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "Taip pat, šis įskiepis  pažymėjo %s gerus komentarus kaip šiukšles  %s, kuriuos Jūs rankiniu būdu pažymėjo gerais)"
+
+msgid "Summary of Protection"
+msgstr "Apsaugos suvestinė"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "Ar norite suaktyvinti CAPTCHA komentarų skelbimui?"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Jūsų serveris, panašu, kad neturi instaliuoto GD su šiomis funkcijomis: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Todėl, apgailestaujame, tačiau nėra galimybės aktyvuoti šios funkcijos!"
+
+msgid "Yes/No (for commenting only):"
+msgstr "Taip/Ne (tik komentarams)"
+
+msgid "The captcha will be like that : %s"
+msgstr "CAPTCHA atrodys šitaip: %s"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "Naudoti CAPTCHA tik, kai vartotojas prisijungęs"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "PERSPĖJIMAS: Jei Jūs pažymėsite šitą punktą, CAPTCHA bus aktyvi tik lankytojams su šiomis teisėmis: %s"
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr "Tada CAPTCHA bus rodoma (įsistikinkite, kad viskas rodoma teisingai (CSS ir kt) ir neaktyvi  lankytojams, kurių tesės: %s"
+
+msgid "Number of letters:"
+msgstr "Laiškų skaičius:"
+
+msgid "Default value %s"
+msgstr "Numatytoji reikšmė %s"
+
+msgid "Width of image:"
+msgstr "Paveikslėlio plotis:"
+
+msgid "Height of image:"
+msgstr "Paveikslėlio aukštis:"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Maksimalus +/- raidžių kampas:"
+
+msgid "Size of letters:"
+msgstr "Raidžių dydis:"
+
+msgid "Color of the background:"
+msgstr "Fono spalva:"
+
+msgid "Color of the font:"
+msgstr "Raidžių spalva:"
+
+msgid "Variation of the color of the letters:"
+msgstr "Netolygi raidžių spalva:"
+
+msgid "The color of the letters are not the identical"
+msgstr "Raidžių spalva nebus identiška"
+
+msgid "Variation of the color of the background:"
+msgstr "Netolygus fonas:"
+
+msgid "The color of the background are not the homogenous"
+msgstr "Fono  spalva nebus vientisa"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "HTML, kuris bus įterptas į Jūsų puslapį, rodys tokį CAPTCHA paveikslėlį:"
+
+msgid "The default html is: %s (please note that %s will be replace with the captcha image)"
+msgstr "Numatytas html: %s (įsidėmėkite, kad %s bus pakeistas captcha paveikslėliu)"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Ar norite naudoti Akismet API tikrinti šiukšlėms komentaruose?"
+
+msgid "Yes/No:"
+msgstr "Taip/Ne:"
+
+msgid "The Akismet ID:"
+msgstr "Akismet ID:"
+
+msgid "Your Akismet ID is correct."
+msgstr "Jūsų Akismet ID teisingas."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Jūsų Akismet ID, panašu, yra neteisingas."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "Norėdami gauti Akismet ID, žiūrėkite %s čia %s."
+
+msgid "Parameters"
+msgstr "Parametrai"
+
+msgid "Manage translations"
+msgstr "Valdyti vertimus"
+
+msgid "Give feedback"
+msgstr "Siųsti atsiliepimą"
+
+msgid "Other plugins"
+msgstr "Kiti įskiepiai"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Prašom, įveskite ženklus iš CAPTCHA paveikslėlio į įvedimo langelį"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Jūs bandėte išsiųsti komentarą, kuris buvo pripažintas nepriimtinu... Jei manote kitaip, prašom pabandykite pakoreguoti ir siųssti vėl "
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Jūs neteisingai suvedėte captcha: jei suklydote ar norite įrodyti, kad nesate šiukšlinimo programa, prašom pabandykite dar kartą!"
+

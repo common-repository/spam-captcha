@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-07T16:09:15+00:00\n"
+"Last-Translator: IgorPulbere <m.isus.tv>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: Russia\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "Следующая таблица обобщает количество отклоненных комментариев"
+
+msgid "Type"
+msgstr ""
+
+msgid "Number of hits"
+msgstr ""
+
+msgid "Blocked by CAPTCHA"
+msgstr ""
+
+msgid "Blocked by AKISMET"
+msgstr ""
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr ""
+
+msgid "Normal comment"
+msgstr ""
+
+msgid "Blocked by AKISMET but normal"
+msgstr ""
+
+msgid "Spam Report"
+msgstr ""
+
+msgid "Type of protection"
+msgstr "Тип защиты"
+
+msgid "Summary"
+msgstr "Заключение"
+
+msgid "CAPTCHA protection:"
+msgstr "Защита для различения компьютеров и людей (CAPTCHA)"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s сообщений заблокировано CAPTCHA"
+
+msgid "AKISMET protection:"
+msgstr "АКСИМЕТ защита"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Этот плагин заблокировал %s спам-комментов (and missed %s that you have manually indicated as being spam)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "Этот плагин обработал %s нормальных сообщений and marked as spam %s that you have manually indicated as being normal)"
+
+msgid "Summary of Protection"
+msgstr "Итог защиты"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr ""
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Похоже на вашем сервере не установлен ГД со следующими функциями: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Эту оппцию невозможно активировать"
+
+msgid "Yes/No (for commenting only):"
+msgstr ""
+
+msgid "The captcha will be like that : %s"
+msgstr ""
+
+msgid "Use Capctha even if user is logged:"
+msgstr "Использовать CAPTCHA даже если пользователь залогирован"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "ВНИМАНИЕ: Если вы включите данную функцию CAPTCHA будет эффективна для пользователей со следующей ролью: %s"
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr ""
+
+msgid "The captcha proposes a sequence of lower-case letters:"
+msgstr ""
+
+msgid "The captcha proposes an addition operation to solve:"
+msgstr ""
+
+msgid "Number of letters:"
+msgstr "Количество букв"
+
+msgid "Default value %s"
+msgstr "Стандартное значение %s"
+
+msgid "Width of image:"
+msgstr "Ширина"
+
+msgid "Height of image:"
+msgstr "Высота"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Максимальный наклон букв"
+
+msgid "Size of letters:"
+msgstr "Размер букв"
+
+msgid "Color of the background:"
+msgstr "Цвет фона"
+
+msgid "Color of the font:"
+msgstr "Цвет шрифта"
+
+msgid "Variation of the color of the letters:"
+msgstr "Вариация цвета букв"
+
+msgid "The color of the letters and of the background are not the identical"
+msgstr ""
+
+msgid "Variation of the color of the background:"
+msgstr "Разнообразие цвета фона"
+
+msgid "The color of the background are not the homogenous"
+msgstr "Разноцветный фон"
+
+msgid "Percentage of variation (alea) of the colors (background and letters):"
+msgstr ""
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "Код вставляемый в вашу страницу"
+
+msgid "The default html is: %s"
+msgstr ""
+
+msgid "Please note that %s will be replace with the captcha image."
+msgstr ""
+
+msgid "You may add some comment, for instance to make clear that the addition should be responded with the result of the operation."
+msgstr ""
+
+msgid "The image will be slightly distorded:"
+msgstr ""
+
+msgid "The period of the wave:"
+msgstr ""
+
+msgid "The amplitude of the wave:"
+msgstr ""
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Желаете ли использовать Аксимет для защиты от спама?"
+
+msgid "Yes/No:"
+msgstr "Да/Нет:"
+
+msgid "The Akismet ID:"
+msgstr ""
+
+msgid "Your Akismet ID is correct."
+msgstr "Верный Akismet ID"
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Неверный Akismet ID"
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "Получить Akismet ID %s здесь %s."
+
+msgid "Parameters"
+msgstr "Параметры"
+
+msgid "Manage translations"
+msgstr "Управление переводами"
+
+msgid "Give feedback"
+msgstr "Ваши отзывы"
+
+msgid "Other plugins"
+msgstr ""
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Введенный вами текст определен как спам... если нет, попытайтесь его изменит и попробовать еще раз"
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Введенный вами код неверен, попробуйте еще раз!"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Пожалуйста напечатайте буквы/цифры изображенные на картинке"
+

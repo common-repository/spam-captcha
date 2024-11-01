@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-08T08:46:33+00:00\n"
+"Last-Translator: SedLex <http://www.sedlex.fr/>\n"
+"Last-Translator: Geraldine <http://www.ministeredesincorrections.com>\n"
+"Last-Translator: fabien <fabien@id-est.fr>\n"
+"Last-Translator: Brugees <www.noukicom.fr>\n"
+"Last-Translator: jpmarceorg <saint-jeannet.info>\n"
+"Last-Translator: nourdin <contact@mu-slim.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Pie chart summary"
+msgstr "Diagramme circulaire récapitulatif"
+
+msgid "Blocked by CAPTCHA (nothing entered)"
+msgstr "Bloqué par CAPTCHA (rien entré)"
+
+msgid "Blocked by CAPTCHA (no session cookie)"
+msgstr "Bloqué par CAPTCHA (pas de cookie de session)"
+
+msgid "Blocked by CAPTCHA (mismatch)"
+msgstr "Bloqué par CAPTCHA (faux)"
+
+msgid "Blocked by AKISMET"
+msgstr "Bloqué par AKISMET"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "Non bloqué par AKISMET mais est du spam"
+
+msgid "Normal comment"
+msgstr "Commentaire normal"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "Bloqué par AKISMET mais normal"
+
+msgid "Last %s days summary"
+msgstr "résumé des %s derniers jours"
+
+msgid "Comment blocked by Akismet"
+msgstr "Commentaire bloqué par Akismet"
+
+msgid "Detailled summary"
+msgstr "résumé détaillé"
+
+msgid "Type of protection"
+msgstr "Type de protection"
+
+msgid "Summary"
+msgstr "Synthèse"
+
+msgid "CAPTCHA protection:"
+msgstr "Protection par Captcha :"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s messages ont été bloqués car le test par CAPTCHA a échoué"
+
+msgid "AKISMET protection:"
+msgstr "Protection par Akismet :"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Ce plugin a stoppé %s commentaires considérés comme spam (et a en raté %s que vous avez manuellement marqué comme étant du spam)"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "De plus, ce plugin a traité %s commentaires normaux (et en marqué %s comme spam alors que vous avez indiqué que ceux-ci n&#039;en étaient pas)"
+
+msgid "Summary of Protection"
+msgstr "Synthèse de la protection"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "Voulez-vous activer les CAPTCHA pour les commentaires postés ?"
+
+msgid "Your server does not seems to have GD installed with the following functions: %s"
+msgstr "Votre serveur ne semble pas avoir la librairie GD installée avec les fonctions suivantes: %s"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Ainsi, il n&#039;est pas possible d&#039;activer cette option... désolé !"
+
+msgid "Yes/No (for commenting only):"
+msgstr "Oui/Non (seulement pour les commentaires soumis) :"
+
+msgid "The captcha will be like that : %s"
+msgstr "Le Captcha sera comme suit : %s"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "Utiliser le Captcha même si l&#039;utilisateur est enregistré"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "ATTENTION : Si vous activez cette option, le captcha ne fonctionnera que pour les utilisateurs avec un rôle parmi : %s"
+
+msgid "Then the Captcha will be displayed (for instance, to make sure that the display/CSS/etc. is correct) but ineffective with users with the following role: %s"
+msgstr "Le Captcha sera affiché (par exemple pour vérifier que l&#039;affichage est correct, que les feuilles de styles fonctionnent...) mais sera non fonctionnel avec les utilisateurs ayant un rôle parmi : %s"
+
+msgid "The captcha proposes a sequence of lower-case letters:"
+msgstr "Le captcha propose une séquence de lettres en minuscules"
+
+msgid "The captcha proposes an addition operation to solve:"
+msgstr "Le captcha propose de trouver la solution d&#039;une addition"
+
+msgid "Number of letters:"
+msgstr "Nombre de lettres :"
+
+msgid "Default value %s"
+msgstr "La valeur par défaut : %s"
+
+msgid "Width of image:"
+msgstr "Largeur de l&#039;image :"
+
+msgid "Height of image:"
+msgstr "Hauteur de l&#039;image :"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Angle maximal +/- des lettres :"
+
+msgid "Size of letters:"
+msgstr "Taille des lettres :"
+
+msgid "Color of the background:"
+msgstr "Couleur du fond :"
+
+msgid "Color of the font:"
+msgstr "Couleur de la casse (lettres) :"
+
+msgid "Variation of the color of the letters:"
+msgstr "Variation des couleurs des lettres :"
+
+msgid "The color of the letters are not homogenous"
+msgstr "La couleur des lettres ne sont pas homogènes"
+
+msgid "Variation of the color of the background:"
+msgstr "Variation des couleurs du fond :"
+
+msgid "The color of the background are not homogenous"
+msgstr "La couleur de l&#039;arrière-plan ne sont pas homogènes"
+
+msgid "Percentage of variation (alea) of the colors (background and letters):"
+msgstr "Pourcentage de différence entre la couleur des lettres et celle de l&#039;arrière plan"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "Le HTML qui sera inséré dans vos pages afin d&#039;afficher les images de Captcha :"
+
+msgid "The default HTML is:"
+msgstr "Le HTML par défaut est le suivant :"
+
+msgid "The CSS that will be inserted in your page to display captcha image:"
+msgstr "Le CSS qui sera inséré dans vos pages afin d&#039;afficher les images de Captcha :"
+
+msgid "The default CSS is:"
+msgstr "Le CSS par défaut est le suivant :"
+
+msgid "Please note that %s will be replace with the captcha image."
+msgstr "Remarque : %s sera remplacé par l&#039;image captcha"
+
+msgid "You may add some comment, for instance to make clear that the addition should be responded with the result of the operation."
+msgstr "Vous pouvez ajouter un commentaire, par exemple pour bien indiquer que le résultat de l&#039;addition doit-être correct"
+
+msgid "The image will be slightly distorded:"
+msgstr "L&#039;image sera légèrement déformée :"
+
+msgid "The period of the wave:"
+msgstr "La période de la courbure :"
+
+msgid "The amplitude of the wave:"
+msgstr "L&#039;amplitude de la courbure :"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Voulez-vous utiliser l&#039;API de Akismet afin de vérifier que les commentaires ne sont pas des spams ?"
+
+msgid "Yes/No:"
+msgstr "Oui/Non :"
+
+msgid "The Akismet ID:"
+msgstr "L&#039;identifiant d&#039;Akismet"
+
+msgid "Your Akismet ID is correct."
+msgstr "Votre identifiant est correct."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Votre identifiant n&#039;est pas correct."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "Pour récupérer un identifiant, voir %s ici %s."
+
+msgid "Captcha in Contact Forms"
+msgstr "Captcha dans les Formulaires de Contact"
+
+msgid "Add a captcha on %s:"
+msgstr "Ajouter un Captcha dans ¨%s :"
+
+msgid "Please install first this plugin %s."
+msgstr "Merci d&#039;installer d&#039;abord l’extension %s."
+
+msgid "In the form, please use the shortcode %s to display the captcha."
+msgstr "Dans le formulaire, utilisez le code %s pour afficher le captcha."
+
+msgid "Ban Spammer's IP addresses"
+msgstr ""
+
+msgid "Block IP of spammers that fails the CAPTCHA and do not have cookies (using %s plugin):"
+msgstr ""
+
+msgid "%s plugin is correctly installed and activated."
+msgstr ""
+
+msgid "Please install and activate %s plugin."
+msgstr ""
+
+msgid "Block IP of spammers for which %s has detect spam (via %s plugin):"
+msgstr ""
+
+msgid "The plugin %s is correctly installed and activated."
+msgstr ""
+
+msgid "Advanced parameters"
+msgstr "Paramètres avancés"
+
+msgid "Remove stats older than (in days):"
+msgstr "Enlever statistiques plus vieux que (en jours) :"
+
+msgid "Stats older than the predetermined number of days will be deleted to save database space."
+msgstr "Les statistiques antérieures au nombre de jours indiqués seront supprimées pour ne pas encombrer la base de données."
+
+msgid "0 means that no entry is deleted."
+msgstr "0 signifie que rien ne sera modifié"
+
+msgid "Remove stats if there are more than (entries):"
+msgstr ""
+
+msgid "In order to avoid the SQL saturation."
+msgstr ""
+
+msgid "Parameters"
+msgstr "Paramètres"
+
+msgid "This plugin enables the verification that a comment is not a spam."
+msgstr "Cette extension permet de vérifier qu&#039;un commentaire n&#039;est pas du spam."
+
+msgid "Purpose of that plugin"
+msgstr "Voici le but de cette extension"
+
+msgid "You can configure the look of the captcha by modifying different parameters available in the configuration tab."
+msgstr "Vous pouvez configurer l&#039;apparence du captcha en changeant les paramètres disponibles dans l&#039;onglet"
+
+msgid "I recommend that you test differents values for the options in order to render the image complex enough for a machine but simple for a human."
+msgstr "Il est recommandé d&#039;essayer des valeurs différentes pour les options de façon à créer une image assez complexe pour un ordinateur mais simple pour un homme."
+
+msgid "There are many parameters, no?"
+msgstr "Ne trouvez vous pas qu&#039;il y a beaucoup de paramètres ?"
+
+msgid "The present plugin may be connected to the %s plugin i order to add the IP address of the spammer in the ban list."
+msgstr ""
+
+msgid "Block spammer"
+msgstr "Bloquer spammeur"
+
+msgid "How To"
+msgstr "Comment"
+
+msgid "Manage translations"
+msgstr "Gérer les traductions"
+
+msgid "Give feedback"
+msgstr "Donner un feedback"
+
+msgid "Other plugins"
+msgstr "Autres plugins"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Vous avez soumis un commentaire qui est considéré comme un spam... Si ce n&#039;est pas le cas, merci de le modifier et d&#039;essayer à nouveau."
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Vous n&#039;avez pas saisi correctement le Captcha : pour prouver que vous n&#039;êtes pas une machine, merci d&#039;essayer à nouveau !"
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Merci de taper les caractères de l&#039;image Captcha dans le champ"
+
+msgid "You do not have typed the correct captcha"
+msgstr "Vous n&#039;avez pas tapé le bon captcha"
+

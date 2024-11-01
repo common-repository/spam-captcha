@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-21T06:06:16+00:00\n"
+"Last-Translator: AdLX <adilx05@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: Turkey\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The following table summarizes the number of rejected comments"
+msgstr "Aşağıdaki Tablo Reddedilen Yorumları Göstermektedir"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "Number of hits"
+msgstr "Kaç Kere Tıklandı :"
+
+msgid "Blocked by CAPTCHA"
+msgstr "CAPTCHA Tarafından Engellendi"
+
+msgid "Blocked by AKISMET"
+msgstr "AKISMET Tarafından Engellendi"
+
+msgid "Not Blocked by AKISMET but spam"
+msgstr "Spam Fakat AKISMET Tarafından Engellenmedi"
+
+msgid "Normal comment"
+msgstr "Normal Yorum"
+
+msgid "Blocked by AKISMET but normal"
+msgstr "AKISMET Tarafından Engellendi Fakat Normal"
+
+msgid "Spam Report"
+msgstr "Spam Raporu"
+
+msgid "Type of protection"
+msgstr "Koruma Türü"
+
+msgid "Summary"
+msgstr "Özet"
+
+msgid "CAPTCHA protection:"
+msgstr "CAPTCHA Koruması :"
+
+msgid "%s messages have been blocked as the CAPTCHA test failed"
+msgstr "%s Mesaj CAPTCHA Testini Geçemediği İçin Bloke Oldu"
+
+msgid "AKISMET protection:"
+msgstr "AKISMET Koruması:"
+
+msgid "This plugin have stopped %s spam-comments (and missed %s that you have manually indicated as being spam)"
+msgstr "Bu Eklenti %s Spam Mesajı Durdurdu ( ve %s mesajın spam olabileceği manuel olarak belirtilmiştir )"
+
+msgid "Moreover, this plugin processes %s normal comments (and marked as spam %s that you have manually indicated as being normal)"
+msgstr "Dahası, bu eklenti %s mesajı işledi (ve %s mesajı spam olarak işaretledi elle normal olduğunu belirtmelisiniz )"
+
+msgid "Summary of Protection"
+msgstr "Koruma Özeti"
+
+msgid "Do you want to enable CAPTCHA for posting comments?"
+msgstr "CAPTCHA özelliğini gönderilen mesajlar için aktifleştirmek istiyor musunuz ?"
+
+msgid "Thus, it is not possible to activate this option... sorry !"
+msgstr "Nitekim bu seçeneği aktifleştirmenize imkan yok... üzgünüm !"
+
+msgid "Yes/No (for commenting only):"
+msgstr "Evet/Hayır"
+
+msgid "The captcha will be like that : %s"
+msgstr "Captcha böyle olsun : %s"
+
+msgid "Use Capctha even if user is logged:"
+msgstr "Kullanıcı Oturum Açsa Dahi CAPTCHA Kullan"
+
+msgid "WARNING: If you enable this option, the Captcha will be only effective with users with the following role: %s"
+msgstr "DİKKAT: Eğer Bu Seçeneği Aktifleştirirseniz, CAPTCHA Sadece Şu Kullanıcılara Aktif Olacak : %s"
+
+msgid "The captcha proposes a sequence of lower-case letters:"
+msgstr "CAPTCHA küçük harflerle yazılmasını öneriyor :"
+
+msgid "The captcha proposes an addition operation to solve:"
+msgstr "CAPTCHA Sorunu Çözmek İçin Farklı Yollar Öneriyor"
+
+msgid "Number of letters:"
+msgstr "Harf Sayısı:"
+
+msgid "Default value %s"
+msgstr "Varsayılan Değer %s"
+
+msgid "Width of image:"
+msgstr "Görüntü Genişliği:"
+
+msgid "Height of image:"
+msgstr "Görüntü Yüksekliği:"
+
+msgid "Maximum +/- angle of letters:"
+msgstr "Harflerin En Fazla Açısı +/- :"
+
+msgid "Size of letters:"
+msgstr "Harflerin Boyutu:"
+
+msgid "Color of the background:"
+msgstr "Arkaplan Rengi:"
+
+msgid "Color of the font:"
+msgstr "Fon Rengi"
+
+msgid "Variation of the color of the letters:"
+msgstr "Harflerin Renk Değişimi:"
+
+msgid "The color of the letters and of the background are not the identical"
+msgstr "Harflerin Ve Arkaplanın Rengi Aynı Değil"
+
+msgid "Variation of the color of the background:"
+msgstr "Arkaplan Renginin Değişimi:"
+
+msgid "The color of the background are not the homogenous"
+msgstr "Arkaplan Rengi Homojen Değil"
+
+msgid "Percentage of variation (alea) of the colors (background and letters):"
+msgstr "Renk Değişimi Yüzdesi ( arkaplan ve harfler ):"
+
+msgid "The HTML that will be inserted in your page to display captcha image:"
+msgstr "HTML CPATCHA Resimlerini Görüntülemek İçin Sayfanıza Eklenecektir:"
+
+msgid "The default html is: %s"
+msgstr "Varsayılan adres : %s"
+
+msgid "Please note that %s will be replace with the captcha image."
+msgstr "Lütfen %s değiştirilecek olan captcha resmini yerleştirin."
+
+msgid "You may add some comment, for instance to make clear that the addition should be responded with the result of the operation."
+msgstr "Bazı Yorumlar Ekleyebilirsiniz, Örneğin Ek İşlemleri İfade Edebilirsiniz"
+
+msgid "The image will be slightly distorded:"
+msgstr "Görüntü biraz çarpık olacak."
+
+msgid "The period of the wave:"
+msgstr "Wave Periyodu:"
+
+msgid "The amplitude of the wave:"
+msgstr "Wave Genişliği:"
+
+msgid "Do you want to use Akismet API to check spam against posted comments?"
+msgstr "Akismet uygulamasıyla spamları kontrol etmek ister misiniz ?"
+
+msgid "Yes/No:"
+msgstr "Evet/Hayır:"
+
+msgid "The Akismet ID:"
+msgstr "Akismet Adı:"
+
+msgid "Your Akismet ID is correct."
+msgstr "Akismet kullanıcı adı kabul edildi."
+
+msgid "Your Akismet ID does not seem to be correct."
+msgstr "Akismet kullanıcı adı kabul edilmedi."
+
+msgid "To get an Akismet ID, see %s here %s."
+msgstr "Akismet edinmek için , %s buraya %s bakınız"
+
+msgid "Advanced parameters"
+msgstr "Gelişmiş Özellikler"
+
+msgid "Remove stats older than (in days):"
+msgstr "Eski istatistikleri kaldır ( gün olarak ):"
+
+msgid "Stats older than the predetermined number of days will be deleted to save database space."
+msgstr "İstatisitikler eğer ayarlanmış zamandan eskiyse veri tabanından yer kazanmak için silinir."
+
+msgid "0 means that no entry is deleted."
+msgstr "0 Herhangi bir giriş silindi anlamındadır."
+
+msgid "Parameters"
+msgstr "Parametreler"
+
+msgid "Manage translations"
+msgstr "Tercümeleri Düzenle"
+
+msgid "Give feedback"
+msgstr "Geri bildirim gönder"
+
+msgid "Other plugins"
+msgstr "Diğer Eklentiler"
+
+msgid "You have submitted a comment which is considered as a spam... If not, please modify it and retry"
+msgstr "Spam Olarak Kabul Edilen Bir Yorum Gönderdiniz... Eğer Değilse Düzeltip Tekrar Deneyin"
+
+msgid "You have mistyped the captcha : to prove that your are not a spam machine, please retry!"
+msgstr "Captcha Kodunu Yanlış Girdiniz ... Lütfen Tekrar Deneyiniz ."
+
+msgid "Please type the characters of this captcha image in the input box"
+msgstr "Lütfen Resimdeki Kodu Boşluğa Giriniz."
+
